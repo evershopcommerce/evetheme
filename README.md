@@ -3,7 +3,7 @@
 This is an example theme for [EverShop](https://github.com/evershopcommerce/evershop). It is a simple theme that shows how to develop a theme for EverShop.
 
 <p align="center">
-<img alt="EverShop" width="950" src="https://raw.githubusercontent.com/evershopcommerce/evetheme/dev/.github/images/demo.png"/>
+<img alt="EverShop" width="950" src="https://raw.githubusercontent.com/evershopcommerce/evetheme/main/.github/images/demo.png"/>
 </p>
 
 ## Installation
